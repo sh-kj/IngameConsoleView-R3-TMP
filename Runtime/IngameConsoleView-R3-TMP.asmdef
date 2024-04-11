@@ -1,0 +1,19 @@
+{
+    "name": "IngameConsoleView-R3-TMP",
+    "rootNamespace": "",
+    "references": [
+        "GUID:77221876cc6b8244180b96e320b1bcd4",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:35df5da93d637ee4f98fb51de8d12e80",
+        "GUID:d68e5e3f432367b4f9dd6f3719c52852"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

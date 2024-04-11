@@ -1,0 +1,13 @@
+{
+	"name": "com.radiants.ingameconsoleview.r3-tmp",
+	"displayName": "IngameConsoleView-R3-TMP",
+	"version": "1.0.0",
+	"unity": "2021.3",
+	"description": "Customizable Ingame-Console View(Using TextMeshPro)",
+	"license": "MIT",
+	"dependencies": {
+		"com.cysharp.r3": "https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity",
+		"com.radiants.ingameconsolesystem-r3": "https://github.com/sh-kj/Unity-IngameConsole.git?path=R3/IngameConsole",
+		"com.radiants.spritedigits-r3": "https://github.com/sh-kj/SpriteDigits.git?path=Unity-R3/SpriteDigits"
+	}
+}
